@@ -2,11 +2,11 @@
     "name": "php-essentials",
     "displayName": "PHP Essentials",
     "description": "The only extension that a modern PHP developer must install",
-    "publisher": "jfmelo",
+    "publisher": "dudemelo",
     "author": {
         "name": "jfmelo"
     },
-    "version": "1.0.0",
+    "version": "2.0.1",
     "license": "SEE LICENSE IN LICENSE",
     "icon": "images/icon.png",
     "bugs": {
@@ -49,6 +49,6 @@
         "publish": "vsce publish"
     },
     "devDependencies": {
-        "vsce": "^1.81"
+        "@vscode/vsce": "3.9.0"
     }
 }
